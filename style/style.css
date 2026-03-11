@@ -38,6 +38,7 @@
   margin-top: 40px;
   margin-left: 230px;
   margin-right:230px ;
+  margin-top: 30px;
 }
 /* .65-off{
   width: 800px;
@@ -52,11 +53,12 @@
   background-color:#5c5b5e;
   display: flex;
   padding-top: 40px;
-  margin-top: 15px;
+  margin-top: 35px;
+   background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../images/Vectorrr.png);
 }
 .party{
-  color: #FFFFFF;
-  font-size: 20px;
+  color: #e0dbdb;
+  font-size: 17px;
   padding: 10px;
 
 }
@@ -79,6 +81,7 @@
 .about-section{
   text-align: center;
   padding-top: 150px;
+  margin-top: 30px;
 }
 .rong{
   color: #FF0000;
@@ -94,4 +97,56 @@
 }
 .btnn{
   margin-top: 10px;
+}
+
+/* ofer section */
+
+.offer-section{
+  width: 1300px;
+  height: 460px;
+  background-color: #f8e9e9;
+}
+.offer{
+  width: 430px;
+  height: 130px;
+  padding: 100px 20px 100px 20px;
+}
+.mahit{
+  color: #FF0000;
+}
+.offer-img{
+  width: 430px;
+  height: 130px;
+  padding: 60px 20px 60px 20px;
+}
+.group{
+  border: 12px solid #FF0000;
+  border-radius: 1850px;
+}
+.mim{
+  color: #FF0000;
+  font-size: 27px;
+  padding-bottom: 10px;
+}
+.grop{
+  width: 140px;
+  height: 140px;
+  padding-top:30px;
+}
+.offer-section{
+  display: flex;
+  margin-top: 30px;
+}
+.last{
+  width: 430px;
+  height: 130px;
+  padding: 60px 20px 60px 20px;
+
+}
+.part{
+  color: rgb(15, 15, 15);
+}
+.mahit-title{
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
