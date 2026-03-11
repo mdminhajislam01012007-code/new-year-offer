@@ -150,3 +150,33 @@
   padding-top: 10px;
   padding-bottom: 10px;
 }
+/* holiday-section */
+
+.holiday-section{
+  width: 1300px;
+  height: 600px;
+  margin-top: 30px;
+  background-color: #f8d3d3;
+  
+}
+.holiday{
+  text-align: center;
+  width: 500px;
+  height: 250px;
+  padding-left: 340px;
+  padding-top: 50px;
+}
+.holiday-img{
+  width: 206px;
+  height: 206px;
+}
+.hol-img{
+  width: 280px;
+  height: 280px;
+}
+.holi-img{
+  display:flex;
+  justify-content: space-around;
+  padding: 0;
+  padding-top: 0;
+}
