@@ -1,0 +1,97 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.hedar-benar{
+  background-image: url(../images/Banner\ Image.png);
+  width: 1300px;
+  height: 600px;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../images/Banner\ Image.png);
+}
+.benar-title{
+  color:#FFFFFF;
+  font-size: 32px;
+  font-weight: 400;
+  opacity: 100%;
+}
+.benar-discription{
+  color:#FFFFFF;
+  font-size: 60px;
+  font-weight:bold;
+}
+.benar{
+  text-align: center;
+  padding-top:200px;
+  
+}
+/* benar2style */
+
+.benar-titl{
+  color: #FF0000;
+}
+.discription{
+  color: #FF0000;
+  padding: 10px;
+}
+.benar-2{
+  text-align: center;
+  margin-top: 40px;
+  margin-left: 230px;
+  margin-right:230px ;
+}
+/* .65-off{
+  width: 800px;
+  height: 400px;
+} */
+
+/* benar-3 style */
+
+.benar-3{
+  width: 1300px;
+  height: 600px;
+  background-color:#5c5b5e;
+  display: flex;
+  padding-top: 40px;
+  margin-top: 15px;
+}
+.party{
+  color: #FFFFFF;
+  font-size: 20px;
+  padding: 10px;
+
+}
+.min{
+  padding: 30px 130px 30px 130px;
+
+}
+.btn{
+  background-color:#FF0000;
+  color: rgb(239, 235, 235);
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+/* about */
+
+.about-section{
+  text-align: center;
+  padding-top: 150px;
+}
+.rong{
+  color: #FF0000;
+}
+.about{
+  width: 1300px;
+  height: 400px;
+  background-color: #f8d3d3;
+}
+.place{
+ padding-top: 10px;
+ padding-bottom: 10px;
+}
+.btnn{
+  margin-top: 10px;
+}
