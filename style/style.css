@@ -180,3 +180,65 @@
   padding: 0;
   padding-top: 0;
 }
+
+/* awosom section */
+
+.awosom{
+  width: 1300px;
+  height: 800px;
+  margin-top: 40px;
+  background-color: #f8e9e9;
+}
+.awosom-div{
+  text-align: center;
+  padding-top: 30px;
+}
+.pic{
+  width: 300px;
+  height: 320px;
+  padding:8px;
+  padding-left:90px;
+}
+/* newsleter section */
+.newsleter{
+  width: 1300px;
+  height: 616px;
+  margin-top: 30px;
+  background-color: rgba(255, 0, 0, 0.05);
+}
+.news{
+  width: 890px;
+  height: 336px;
+  text-align: center;
+  padding-left: 180px;
+  padding-top: 30px;
+}
+.news-pic{
+  width: 130px;
+  height: 130px;
+}
+.subscribe-box{
+  display: flex;
+  width: 400px;
+  border: 2px solid #2b6cb0;
+  border-radius: 30px;
+  overflow: hidden;
+  margin-left: 385px;
+}
+
+.subscribe-box input{
+  flex: 1;
+  padding: 12px 15px;
+  border: none;
+  outline: none;
+  font-size: 14px;
+}
+
+.subscribe-box button{
+  background: red;
+  color: white;
+  border: none;
+  padding: 0 25px;
+  font-weight: bold;
+  cursor: pointer;
+}
