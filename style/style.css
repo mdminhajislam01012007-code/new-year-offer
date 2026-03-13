@@ -55,6 +55,8 @@
   padding-top: 40px;
   margin-top: 35px;
    background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../images/Vectorrr.png);
+   margin-left: 40px;
+  margin-right: 40px ;
 }
 .party{
   color: #e0dbdb;
@@ -82,6 +84,8 @@
   text-align: center;
   padding-top: 150px;
   margin-top: 30px;
+  margin-left: 40px;
+  margin-right: 40px ;
 }
 .rong{
   color: #FF0000;
@@ -90,6 +94,8 @@
   width: 1300px;
   height: 400px;
   background-color: #f8d3d3;
+  margin-left: 40px;
+  margin-right: 40px ;
 }
 .place{
  padding-top: 10px;
@@ -105,6 +111,8 @@
   width: 1300px;
   height: 460px;
   background-color: #f8e9e9;
+  margin-left: 40px;
+  margin-right: 40px ;
 }
 .offer{
   width: 430px;
@@ -157,6 +165,8 @@
   height: 600px;
   margin-top: 30px;
   background-color: #f8d3d3;
+  margin-left: 40px;
+  margin-right: 40px ;
   
 }
 .holiday{
@@ -188,6 +198,8 @@
   height: 800px;
   margin-top: 40px;
   background-color: #f8e9e9;
+  margin-left: 40px;
+  margin-right: 40px ;
 }
 .awosom-div{
   text-align: center;
@@ -205,6 +217,8 @@
   height: 616px;
   margin-top: 30px;
   background-color: rgba(255, 0, 0, 0.05);
+  margin-left: 40px;
+  margin-right: 40px ;
 }
 .news{
   width: 890px;
@@ -241,4 +255,47 @@
   padding: 0 25px;
   font-weight: bold;
   cursor: pointer;
+}
+
+/* footer-section */
+
+.footer{
+  width: 1600px;
+  height: 409px;
+  background-color: black;
+}
+.footer-title{
+  color: #FFFFFF;
+  padding: 5px;
+}
+.footer-sec{
+  display: flex;
+  justify-content: space-around;
+}
+.footer1{
+  padding-top: 10px;
+  padding-left: 0px;
+  width: 375px;
+  height: 80px;
+}
+.footer2{
+  padding-top:10px ;
+  padding-right: 8px;
+  width: 375px;
+  height: 80px;
+}
+.footer-img{
+  width: 328px;
+  height: 34px;
+  text-align: center;
+  justify-content: center;
+  padding-left: 410px;
+  margin-top: 80px;
+}
+.icon{
+  width: 40px;
+  height: 40px;
+}
+.ricive{
+  margin-top: 80px;
 }
